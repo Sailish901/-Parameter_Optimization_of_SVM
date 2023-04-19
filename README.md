@@ -5,11 +5,11 @@ Support Vector Machine or SVM is one of the most popular Supervised Learning alg
  ##Dataset
 
 The dataset for the project has been downloaded from the UCI Machine Learning Repository.
-[https://archive.ics.uci.edu/ml/datasets/Room+Occupancy+Estimation](https://archive.ics.uci.edu/ml/datasets/Room+Occupancy+Estimation)
+https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State
 
-Number of Instances: 10000
+Number of Instances: 14980
 
-Number of Attributes: 18
+Number of Attributes: 15
 
 ## Table
 
