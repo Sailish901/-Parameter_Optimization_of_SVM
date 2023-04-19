@@ -29,7 +29,7 @@ Sample	BestAccuracy	BestKernel	BestNu	BestEpsilon
 
 ##Final Result
 
- Best accuracy of 0.97 having kernel = Poly, Nu = 1.27 and Epsilon = 6.87.
+ Best accuracy of 0.88 having kernel = rbf, Nu = 0.18 and Epsilon = 0.69
  
 Name : Sailish Makkar 
 Roll No. : 102003768
