@@ -12,7 +12,7 @@ Number of Instances: 14980
 Number of Attributes: 15
 
 ## Table
-Sample	BestAccuracy	BestKernel	BestNu	BestEpsilon
+Sample	Best Accuracy	Best Kernel	Best Nu	Best Epsilon
 0	1	0.54	sigmoid	5.90	1.90
 1	2	0.56	rbf	4.71	0.52
 2	3	0.55	linear	1.19	0.14
